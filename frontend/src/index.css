@@ -1,0 +1,10 @@
+body {
+  background-color: #f4f8f7;
+}
+
+.bill-paper {
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 30px;
+}

@@ -1,0 +1,29 @@
+{
+  "bills": [
+    {
+      "billNo": "MB1001",
+      "date": "2026-11-11",
+      "patientName": "sofia",
+      "phone": "6626646782",
+      "doctorName": "dr.mohan",
+      "medicines": [
+        {
+          "name": "dfghjk",
+          "quantity": 2,
+          "price": 20,
+          "amount": 40
+        },
+        {
+          "name": "qwertyuio",
+          "quantity": 3,
+          "price": 26,
+          "amount": 78
+        }
+      ],
+      "subtotal": 118,
+      "gst": 5.9,
+      "grandTotal": 123.9,
+      "id": 1
+    }
+  ]
+}
